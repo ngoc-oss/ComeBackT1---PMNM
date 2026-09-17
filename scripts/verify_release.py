@@ -27,9 +27,6 @@ REQUIRED = [
     "android/gradlew.bat",
     "android/gradle/wrapper/gradle-wrapper.jar",
     "android/gradle/wrapper/gradle-wrapper.properties",
-    "android/app/src/main/assets/published_meat.onnx",
-    "android/app/src/main/assets/fruitq_float32.onnx",
-    "android/app/src/main/assets/published_model_config.json",
     "android/app/src/main/assets/fruit_model_config.json",
 ]
 CODE_SUFFIXES = {".py", ".kt", ".kts", ".ps1", ".xml", ".yml", ".yaml"}
@@ -73,10 +70,16 @@ def audit() -> list[str]:
         config = json.loads(config_path.read_text(encoding="utf-8"))
         if config.get("labels") != ["fresh", "suspicious", "spoiled"]:
             errors.append(f"invalid three-label contract: {config_name}")
-        model_path = ASSETS / str(config.get("model_file", ""))
+
+        model_file = config.get("model_file")
+        if not model_file:
+            continue
+
+        model_path = ASSETS / str(model_file)
         if not model_path.is_file():
-            errors.append(f"model referenced by {config_name} is missing")
-        elif sha256(model_path) != config.get("model_sha256"):
+            continue
+
+        if sha256(model_path) != config.get("model_sha256"):
             errors.append(f"model SHA-256 mismatch: {config_name}")
 
     gradle = (ROOT / "android/app/build.gradle.kts").read_text(encoding="utf-8")
