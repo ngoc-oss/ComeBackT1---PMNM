@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: MIT; FreshCheck source is licensed under MIT; see LICENSE. -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="captures" path="captures/" />
+    <cache-path name="exports" path="exports/" />
+</paths>

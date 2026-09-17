@@ -1,0 +1,53 @@
+{
+  "verified_on": "2026-09-11",
+  "dataset": {
+    "name": "Fruit Quality Datasets (FruQ-DB)",
+    "doi": "10.5281/zenodo.7224690",
+    "creators": [
+      {
+        "name": "Abayomi-Alli Olusola",
+        "affiliation": "Kaunas University of Technology, Lithuania",
+        "orcid": "0000-0003-2513-5318"
+      },
+      {
+        "name": "Damaševičius Robertas",
+        "affiliation": "Kaunas University of Technology, Lithuania",
+        "orcid": "0000-0001-9990-1084"
+      }
+    ],
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "archive": {
+      "id": "830fc611-31a0-41e8-8d64-4c8b11392de1",
+      "key": "FruQ-DB.zip",
+      "size": 241067015,
+      "checksum": "md5:1a942c2d49dc302bacef155561e1f9a8",
+      "links": {
+        "self": "https://zenodo.org/api/records/7224690/files/FruQ-DB.zip/content"
+      }
+    }
+  },
+  "paper": {
+    "title": "FruitQ: a new dataset of multiple fruit images for freshness evaluation",
+    "doi": "10.1007/s11042-023-16058-6",
+    "journal": "Multimedia Tools and Applications",
+    "volume": 83,
+    "pages": "11433–11460",
+    "online_publication": "2023-06-28",
+    "issue_year": 2024,
+    "url": "https://link.springer.com/article/10.1007/s11042-023-16058-6"
+  },
+  "authors_checkpoint_verified": false,
+  "delivered_checkpoint_origin": "FreshCheck project training on published labels; not a checkpoint released by paper authors",
+  "reviewed_candidates": [
+    {
+      "url": "https://github.com/anandmisra/Fruit-Quality-Detection-A-Comparative-Study-of-the-YOLO-Series",
+      "finding": "Reviewed repository tree only README.md; no downloadable checkpoint verified"
+    },
+    {
+      "url": "https://github.com/arpanpramanik2003/FruitQ-GradeX",
+      "finding": "Good/Bad quality binary; unsuitable for native Fresh/Mild/Rotten requirement"
+    }
+  ]
+}

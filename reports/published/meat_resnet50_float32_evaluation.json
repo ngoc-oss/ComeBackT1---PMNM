@@ -1,0 +1,54 @@
+{
+  "n": 451,
+  "labels": [
+    "fresh",
+    "suspicious",
+    "spoiled"
+  ],
+  "confusion_matrix": [
+    [
+      169,
+      4,
+      5
+    ],
+    [
+      17,
+      112,
+      30
+    ],
+    [
+      0,
+      0,
+      114
+    ]
+  ],
+  "accuracy": 0.8758314855875832,
+  "macro_f1": 0.8700123450693793,
+  "precision": [
+    0.9086021505376344,
+    0.9655172413793104,
+    0.7651006711409396
+  ],
+  "recall": [
+    0.949438202247191,
+    0.7044025157232704,
+    1.0
+  ],
+  "f1": [
+    0.9285714285714286,
+    0.8145454545454546,
+    0.8669201520912547
+  ],
+  "spoiled_as_fresh_rate": 0.0,
+  "threshold": 0.7,
+  "threshold_status": "default_not_calibrated",
+  "coverage": 0.35698447893569846,
+  "accepted_accuracy": 0.9937888198757764,
+  "host_inference_ms": {
+    "p50": 29.41803400005938,
+    "p95": 41.83150000000069
+  },
+  "model_bytes": 93977923,
+  "model_sha256": "c47fef91d5a1a16efa6506a09688199b2aaf9600a3fecb127bdee269d9e1defd",
+  "evaluation_scope": "Source valid split; no guarantee of unseen specimen independence. Not a phone benchmark, not authors paper metric."
+}

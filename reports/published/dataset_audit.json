@@ -1,0 +1,19 @@
+{
+  "source_split_counts": {
+    "train": {
+      "spoiled": 510,
+      "fresh": 675,
+      "suspicious": 630
+    },
+    "valid": {
+      "suspicious": 159,
+      "fresh": 178,
+      "spoiled": 114
+    }
+  },
+  "total_images": 2266,
+  "decoded_exact_duplicates": 0,
+  "duplicates": [],
+  "group_ids_available": false,
+  "limitations": "Original source split preserved. Physical specimen IDs absent; near-duplicate or specimen leakage not ruled out."
+}

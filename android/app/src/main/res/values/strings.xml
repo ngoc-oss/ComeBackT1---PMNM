@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: MIT -->
+<!-- FreshCheck source is licensed under MIT; see LICENSE at repository root. -->
+<resources>
+    <string name="app_name">FreshCheck</string>
+    <string name="offline">OFFLINE</string>
+    <string name="hero_kicker">HIỂU THỰC PHẨM CỦA BẠN</string>
+    <string name="hero_title">Chụp một ảnh.\nHiểu thêm độ tươi.</string>
+    <string name="hero_body">Kiểm tra dấu hiệu bên ngoài bằng AI.\nẢnh luôn ở trên điện thoại của bạn.</string>
+    <string name="capture">Chụp ảnh</string>
+    <string name="gallery">Chọn từ thư viện</string>
+    <string name="retake">Chụp lại</string>
+    <string name="analyze">Kiểm tra thực phẩm</string>
+    <string name="history">Lịch sử kiểm tra</string>
+    <string name="export_history">Xuất lịch sử CSV</string>
+    <string name="benchmark">Đo tốc độ · Xuất CSV</string>
+    <string name="sources">Nguồn dữ liệu &amp; mô hình</string>
+    <string name="close">Đóng</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete">Xóa</string>
+    <string name="delete_history">Xóa lịch sử</string>
+    <string name="model_info_format">ONNX Runtime · model %1$s · SHA-256 %2$s…</string>
+    <string name="model_loading">Đang chuẩn bị mô hình…</string>
+    <string name="ready_no_image">Sẵn sàng khi bạn có ảnh</string>
+    <string name="guard_title">Ảnh chưa đạt yêu cầu</string>
+    <string name="guard_dark">Ảnh quá tối. Hãy tăng ánh sáng rồi chụp lại.</string>
+    <string name="guard_bright">Ảnh quá sáng hoặc cháy sáng. Hãy giảm ánh sáng rồi chụp lại.</string>
+    <string name="guard_contrast">Ảnh có độ tương phản quá thấp. Hãy đặt thực phẩm trên nền rõ ràng.</string>
+    <string name="guard_blurry">Ảnh có dấu hiệu bị mờ. Hãy giữ chắc điện thoại, lấy nét và chụp lại.</string>
+    <string name="guard_scope">Bộ lọc nhận thấy ảnh có thể là người, xe hoặc đồ vật ngoài phạm vi. Hãy chụp một loại thịt/quả ở giữa khung hình.</string>
+    <string name="guard_failed">Không chạy được bộ lọc phạm vi. Hãy thử lại; ứng dụng chưa gửi ảnh vào mô hình phân loại.</string>
+    <string name="filter_note">Bộ lọc phạm vi dùng ML Kit chạy trên máy; đây là lớp giảm lỗi, không bảo đảm phát hiện mọi ảnh ngoài phạm vi.</string>
+    <string name="history_export_title">Xuất lịch sử FreshCheck</string>
+    <string name="history_export_error">Không có ứng dụng nhận tệp CSV.</string>
+    <string name="section_photo">01   Bạn muốn kiểm tra gì?</string>
+    <string name="section_result">02  Kết quả kiểm tra</string>
+    <string name="domain_description">Chọn mô hình thịt hoặc quả</string>
+    <string name="food_description">Loại thực phẩm trong ảnh</string>
+    <string name="image_description">Vùng ảnh vuông được đưa vào mô hình</string>
+    <string name="domain_meat">Thịt đỏ</string>
+    <string name="domain_meat_source">Thịt đỏ · Phteven</string>
+    <string name="domain_fruit">Quả · FruQ-DB thử nghiệm</string>
+    <string name="model_wait">Chờ mô hình</string>
+    <string name="photo_hint">Chỉ chụp một thực phẩm thuộc danh sách. Đặt vật ở giữa, đủ sáng, không dùng bộ lọc.</string>
+    <string name="score_warning">Điểm mô hình không phải xác suất an toàn thực phẩm.</string>
+    <string name="safety_warning">Kết quả chỉ phản ánh dấu hiệu bên ngoài. Không phát hiện được mọi vi sinh vật, độc tố hoặc chất ô nhiễm. Không dùng kết quả để quyết định ăn thực phẩm có dấu hiệu bất thường.</string>
+    <string name="privacy_note">Không cần tài khoản · Không tải ảnh lên máy chủ\nLịch sử chỉ lưu kết quả; ảnh chụp nằm tạm trong bộ nhớ đệm.</string>
+    <string name="history_title">50 lần kiểm tra gần nhất</string>
+    <string name="delete_history_question">Xóa toàn bộ lịch sử trên máy?</string>
+    <string name="ready_meat">●  Sẵn sàng · Thịt đỏ · Xử lý trên máy</string>
+    <string name="ready_fruit">●  Sẵn sàng · Quả · Mô hình thử nghiệm</string>
+    <string name="image_ready">Ảnh đã sẵn sàng</string>
+    <string name="image_ready_new_model">Ảnh đã sẵn sàng · Chạy lại với model đã chọn</string>
+    <string name="tap_analyze">Bấm kiểm tra để chạy mô hình.</string>
+    <string name="choose_image">Chọn ảnh đúng phạm vi và bấm kiểm tra.</string>
+    <string name="image_invalid">Ảnh không hợp lệ · Hãy chọn lại</string>
+    <string name="guard_result">ẢNH CHƯA ĐẠT</string>
+    <string name="confirm_title">Xác nhận ảnh</string>
+    <string name="confirm_action">Phân tích</string>
+    <string name="choose_again">Chọn lại</string>
+    <string name="source_title">Nguồn nghiên cứu · 0.5.1</string>
+    <string name="error_title">Chưa thực hiện được</string>
+    <string name="camera_error">Không mở được camera: %1$s</string>
+    <string name="model_load_error">Không nạp được mô hình. Hãy mở lại ứng dụng hoặc cài lại APK đầy đủ.\n%1$s</string>
+</resources>

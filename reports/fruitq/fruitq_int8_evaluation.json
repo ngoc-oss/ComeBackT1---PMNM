@@ -1,0 +1,47 @@
+{
+  "n": 753,
+  "accuracy": 0.3598937583001328,
+  "macro_f1": 0.2647288153437433,
+  "confusion_matrix": [
+    [
+      229,
+      3,
+      0
+    ],
+    [
+      174,
+      31,
+      0
+    ],
+    [
+      226,
+      79,
+      11
+    ]
+  ],
+  "precision": [
+    0.3640699523052464,
+    0.2743362831858407,
+    1.0
+  ],
+  "recall": [
+    0.9870689655172413,
+    0.15121951219512195,
+    0.03481012658227848
+  ],
+  "f1": [
+    0.5319396051103368,
+    0.19496855345911948,
+    0.0672782874617737
+  ],
+  "spoiled_predicted_fresh": 226,
+  "threshold": 0.7,
+  "coverage": 0.8114209827357237,
+  "accepted_accuracy": 0.3829787234042553,
+  "model_bytes": 1248093,
+  "host_cpu_inference_ms_p50": 3.4282939998320217,
+  "host_cpu_inference_ms_p95": 4.2759748000207765,
+  "device_tested": false,
+  "evaluation_scope": "Internal frame split; video leakage possible; not independent generalization",
+  "sha256": "07d59d6980f474a686a2170cdd88060f0076d4a9c219a944c861431bb3c90b40"
+}

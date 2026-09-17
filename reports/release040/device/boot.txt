@@ -1,0 +1,1 @@
+Android 9 API28 x86_64 software emulator; NOT Samsung A10s.

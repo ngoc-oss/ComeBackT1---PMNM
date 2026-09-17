@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "runtime": "onnx",
+  "version": "fruitq-project-0.3.0-experimental",
+  "model_sha256": "d20ed8f8e875044a3cdebe7fa9215392bd5041fd159f50e19dfb76aed9ebc4fd",
+  "labels": [
+    "fresh",
+    "suspicious",
+    "spoiled"
+  ],
+  "food_types": [
+    "Nhóm quả FruQ-DB (thử nghiệm)"
+  ],
+  "threshold": 0.7,
+  "input_size": 224,
+  "crop": "stretch_224",
+  "model_file": "fruitq_float32.onnx",
+  "checkpoint_origin": "Trained by FreshCheck, NOT released by authors of the FruitQ paper",
+  "dataset_doi": "10.5281/zenodo.7224690"
+}

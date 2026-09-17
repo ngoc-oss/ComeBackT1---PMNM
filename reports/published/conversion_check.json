@@ -1,0 +1,8 @@
+{
+  "real_images": 30,
+  "max_probability_difference": 2.682209014892578e-06,
+  "same_argmax": true,
+  "checkpoint_sha256": "777a6239b0948acbf9354f0734e21cfc5467dad7b4364435189830d7ff9c7d57",
+  "authors_commit": "b31e61f43f8c608f119d379daa5b76768b50c5b3",
+  "weights_retrained": false
+}

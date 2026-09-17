@@ -1,0 +1,22 @@
+# SPDX-License-Identifier: MIT
+.venv/
+__pycache__/
+*.pyc
+.gradle/
+.kotlin/
+**/build/
+android/local.properties
+data/raw/
+data/processed/
+artifacts/
+reports/*.npz
+reports/*.png
+*.jks
+*.keystore
+android/app/src/main/assets/*.tflite
+android/app/src/main/assets/model_config.json
+android/app/src/main/assets/*.onnx
+android/app/src/main/assets/published_model_config.json
+data/published_index/
+dist/
+dependency-reports/

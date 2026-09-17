@@ -1,0 +1,24 @@
+{
+  "archive_md5": "1a942c2d49dc302bacef155561e1f9a8",
+  "archive_sha256": "1cc94053027746e81dfcea52d65a2a42c7d33f0b915f2babede6e4c301308dd7",
+  "raw_images": 5647,
+  "unique_images": 5010,
+  "removed_exact_duplicates": 637,
+  "counts_unique": {
+    "fresh": 1545,
+    "mild": 1364,
+    "rotten": 2101
+  },
+  "counts_original": {
+    "fresh": 2182,
+    "mild": 1364,
+    "rotten": 2101
+  },
+  "split_counts": {
+    "test": 753,
+    "train": 3505,
+    "validation": 752
+  },
+  "split_protocol": "seed2026; stratified 70/15/15 after exact decoded-pixel deduplication; FRAME split only",
+  "limitation": "No specimen/video identifiers verified. Adjacent video frames may cross splits. Test is internal diagnostic, NOT independent field validation."
+}

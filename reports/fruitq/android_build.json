@@ -1,0 +1,18 @@
+{
+  "build": "SUCCESSFUL",
+  "version": "0.3.0",
+  "unit_tests": [
+    {
+      "name": "vn.freshcheck.app.DecisionTest",
+      "tests": "3",
+      "failures": "0",
+      "errors": "0"
+    }
+  ],
+  "apk_bytes": 118932569,
+  "apk_sha256": "423ced1cfcdaa237cf7dfda8e48769e70ea798046ab93b4c493702ee8fec648b",
+  "apk_models_hash_checked": true,
+  "device_runtime_tested": false,
+  "fruit_int8_shipped": false,
+  "source_hash_split_disjoint_checked": true
+}

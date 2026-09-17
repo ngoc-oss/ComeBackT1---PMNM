@@ -1,0 +1,5098 @@
+[
+  {
+    "path": "FruQ-DB/Fresh/Image1 (12).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8f5070f381a07b51a22b21dace1be0f325212a2b633e0eeed2e6c24feceaf6d2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2aa0c950809b30420b0a170438ff11e1e069cf433d2a17580bfc5005f4fd721c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9a2a39eafad91483a2445585d83d2bcfc60e57e5b36313e355f0d850a92d7231",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "589565b6a7126013eebb2581c96e050360bd4258979a988f47a259b3c394c153",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6ee41ff3ff82136c56d302607d5c44579c2fb08f9467ff7f9db7ab802fed3b10",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9295db4feaf55c4b102733f3be35f516ff1eb57b8cf1ac4591a7d79c0087fa56",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1bdc03c0a3915a4f6a4a93af30762c256365bd5b73a8aef61de3162ea30248e6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3ad86734cc2e914f2a5593c43debad8dbd01ef4a4c9971e078ad24f4874712cf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "956e255c6c9c9b7d93fe9d753f2a5743e63b69c4a0444bad015408cc8cc1a913",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "911fb2c1dd1ccb57e97c6310c35c4ef9fa71d9a64f268369204e079d3a79b44a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6695f667a7ce1d59993b146a5555fee36d1872012a2b01571ba444a735b0dc48",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (11).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f20a201c83bb5b967e8bef1bffeee67dab4c2205af7f35c4b25c073df74c6cbf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3797966e18dd6d18b808ebed4dc7c4f48d970fee64a760ec735ebfad1061fd79",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "834aa29c67b4cbe1da77433ba0bda467446a20a75deca5e06f13b2fc0e661edd",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "20dcff21871ad9b3362dde43ac11d74db43e2f8dc27f79e9c0b5f9a4367276a2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2c24a8e12bdb208e3c8f16fe3d7a0c0333641462bc91ff612cef20ac9f537788",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "57ca4a3b33d9c2d6d4502d3ef14fbc2d4dfdab25cf1814344dd2e2a620a55cc0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c3d089a9e817b81e5b74e4306b414146ee43eb395f40e6f6206e899ae259a9f1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f6f583557813f74408f05f4e4c6eb17254bfa3423dcf199ea2a58270965d7e5a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2c77e6e62567c6e5ab404defcf83ff27ad15ad75aa76b42582bfd16ef1407f62",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image101.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4512858545fd135a13d7d2556b53d968172fb0bb84cafdc31ef20ec80f2e43b2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "653b4c53021b97cd528a2b4a7c09e2a0374326c3cadc733101b501ee006ede27",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7e576c53893bc9107b5561f32e5bcc1e057edc9164ebdb87c5fa0ac3cd59a053",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c6d555db4a338cda811df04f55e6c21653cbd65bb3c9cc035d8226c9c7d5e240",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "176b7f47d2a46220bd31063a2d87daa1a3c2311ec8dd50e53e2c50575764552a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1c09ac06363ec812e6dfffb2ca7b1fe74c538feb5596db88d7d148137799086a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "07243d18f149176012d22e2478c6218597937fcf2dc42422d671188f82ed06db",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "329b81864538f2336b2cebfb2ee0a33b0b18475b0eb15d1cbd64d634c4056149",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ddb4cf8fac7e5d76f064eae84a3d5264877fc2a177ea74c5902e2899b1256521",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image103.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "06bdab06efcb044719e3e0edf8170fda0261fb91d933b089fb386c9e4407ecd4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "03db54a051d536d0db82d9a1701482ebb107922afe3e004e1fc5efe840fa6f5c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5ffebd5e558f0e64b655d0d0b2c7642e6fad8b01b35eb51c90f863c381a3a6c3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "170cc06a1f859d92c89354144d94c3592dd53e5009304b01e2202a924b0862fb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1d180efb22f28ad1e8b14a1d82385ed8cb0438455c10fcbc0982b96e4dd0d0bc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a5b78f1150381399df28be89690e2a200c9ae19db3b6a5964ff12859d35a8622",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c4a53e67639bb8c6694c98055f198e0af458ddc5c0b64550e27f6f298beb5eb9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image105.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9600ac5478384c8641d87f1ac1cedd8639e7e529b8777416101d05bd4af6d922",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6a98d05d931dc34f0b7e1eb1391b3e72f5d9bb5a9d630cbc1a7d28c3322c8856",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e3096a5cbadc42d04d3eb431153f68abc83f106ea2d86b74ea2b5d456bed8a76",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7d7663c08f46bfdaaa5167423f047a333a84173f2b70205d5cf088bb7cab0092",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "910190ed4f2b8a60800e9c520e992f28ea95d8872667571273b0f75a4e2674d3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8cacc0d88a94deab2c3fc2717541d83701f6a8e3e93c45e3af1b460307cfbb4e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "31d3c311eb56aee472d6148d2a6cf8093548dfaf66e3f924da2ba6bc131d233d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image107.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5381657e1b241a52c21c9e947c935e9d8513c3b7fd2b2757f3c9c19e7e2fc0ea",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "baaf13ba5941d34aeba401496fc3915e9c5b99801f42036f14de0f663171fb11",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e53953579c969dabffc874f1d3cdad195e978c7a26d2c26aaaff8f553bed8d02",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6142658c6d583838da4842c1e61147c4ba8b18ccfb3f441c7b6af1e8fe12bc82",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "946a964a9a679f3f5fbb52fd857bdabb2c02816745956218d32e91dfc2c104c9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c8d2ddcd29e6139035ed9e666fa6c7f90bebe37248d48a6544aeba6fa39bc50f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "42da2737f0ef4075c6daedabec344ece720ae20d69c52cab366cb98663def0a9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image109.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cd86dab92736d43fd4a64760e1327808eeb1ea757a959ab76271eed2494d72d8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b96deca9e4002259b1467a94cf6729e49d92153fe001b1cf27ddb13e441ea3a1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "386d1bfbb1aba284f7981394c434071575d96d041c51fcb6930ea2cb4347b936",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "026214a3693de0cb051a2fa6af6b8aa68d5ba117f9380bfc4cb497a11203f713",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3893d4b36a21c0c1fc3e396b581d554842f8f5d761c620ecd08028b841a59eb0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2efc8f35db81331137a980150932fe68608d8ced176aaa9e615399dc051a7b5a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "57cf787ec499d2ce9adb6c0044c1d3d1399d09276a7d72988738259e26f7417f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "626340f118f7fb85ddf20ad5f9df1595eb3920d63d59bb7942a48bb1e953dce4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "89da5ec5f8b74316889e17154c37b631cc64c18c4adf875d1c56581cd1e5afa0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e26f629347f27c2eb81f2ef1b938125ff0b2069aeb53a8cf6bf486254b34e309",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1fcd23330c450d67fc2836f9d34c98293fae9a984145e6dc217241757fb411d9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "32f15cfaf573e2f06e8f7ea9d808a16aea4f3f4c046b9e3fc42f84efcb16cb80",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image11.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5eac8597f0ecbec881443eb56599b3699e7f0f07ef85d612b5ec991c476ae687",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6a97ce630ce76cb6bcdb1bded991b94b087f99c53f21cd055711b2cba38749ff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "924d157088533f2e7ef095ee6e8ecb2f6b4053a8316d98a9747d00f642a4ae66",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c2782e20db3c4cff3a3542fcac68fee6aab52e45cb533bf8f162baafbc00e298",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "11f624d1a34d9d4019aa7bdd3cca87facab5b87bef8b77232bb9555d7a78e63f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1511dc7821298d3b089f188cef3f72a654c3dc15bdbc26f8c7a379335b7e41b5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ce4f03d5efdccc8d82ccad7f181acb2765068a37fd124c1e496be28942825df3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image111.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1cd06a054de11dd8a6531124e2e7dcb6357b39fc7cd4a206d28bad77573b6006",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bfe2e75b4049a4f816f28a6e900bee1251599b3d05341b8e5f59c6e85e0dc923",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c301bafc6d04ee6f72bcf810b59b194535887e3b14384636507d46d607b62031",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0dc9502d32a41cb026b868fdb2183e98d0c05ce59a826cd08b5396e35898437e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9230d3e0d32373a9e3b6e8f2daf2dcdc9e00d7f432420fcd5f65127dcdd7ac62",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "475afb3a33f1973c87bd360384ad27e4c9126105875b16bd2b3beb7c63904387",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cd27bf384570bd09bc2da50de63dcd4e96cb4f9336701c3c3c6633b5e8f51aea",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image113.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5e2337012453c56eb80a2354ee22f760fd388968eb2897ccc8546bf139c88618",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5100d92bdcbd84a32b36157d94ec02eb168c5f59fd1634d260725e0abd96711d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a6c98d5c2901d26f2316fa7284bfc2c12418e793165c34f25f04d4fcbbce46f7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "30dd9884044ccd4450a5035bd219998abc00fd7b1fbfeae188760cfeaabf9d6a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b727d9b6bd72d966387462d0735286b3a353212d32d1753ca5472b32e5bdcbe1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9f3e29259379dc54c16c4963d51577b7df97161cae22cfad0933d56eddff7fdc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "434cec78fff7a14b0d9458ef5757eb839788e860c5d7cc986711b8934b87b130",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image115.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "26f1166d8517edaeab97c6f5049df47a109886fb58af9e98f0bad86d62826ef2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9a5557ad588c63892a7a340e46f68f1a1f6581e27615356c9d8d70568c2e0c5c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f9c2280c87ef4d25082937d5b8af026526eb7494b4909691fe71f5c31ed86d8d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f65907e0fe55c78f8ff9c889b045920c46c8a7cd3edf3a7f87c83be61f6107f8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "67271d887fbb5bc5afb9cdf7eeddd39b987bc788629356698ce153c2ede411aa",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "601d7820f27755b79b0afe6718d7fd543ae0cc20fa6b1310848a08186bc7aeae",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b33cd0d4f8f5069c8530fd189c4fbabbc4a643d65f7a0296c44f799a6e2aef4a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image117.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7cbec5b9acaa02772ed3ec370cedc9ffa8ee1a59dea44e0cfcea1d6677549cc6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1d8a111ef44e7dd7f015f950d25f2e62f69dcb29b44754f7387a6304e42188d2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7a498b216f0636fabc5dfeeeb9d1f2bf763654ad16f82546ee6dc29aebc1d833",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8ddc5c174b52bcb3a62113a32dc1bd3e9e6ec097945f9aa1b0320865df493771",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f0391cf5442d0f21c7916a26e52e12f5511eea8b74060ba8dc6e4cf566927bf0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "35144fcb97727f27ee30122829493f853cb4a293df8f23285e2f8b94949c6b37",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "53700bcf452cf92b8ee50835926d92ede4fabeb71c7ed35f8990a9868caa1103",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image119.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "48a2d3f05daa0f83f8f535108036a0aad61c3f2afdc542c948431f61e56f6b27",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d5fb916b12b2e1292ba9bc743c11c14d63e6af2971cdb955969058c2fad94516",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "110aa7b5063958182aecb2beece9cbb6c5a04d5edb357de16c0b2f836b701369",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b378e8419da6bba0bdf2fcd2be41105ac7a572dd1a33f8bf6dc5a9f7cc4451b6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b377f08c54c9b3b923b0cf598a88067b6556a43113d51b69d8e9e21295cd3f7e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f00252011989bbfdde541d71d3f5793e5d02c51c602cdc7c04313a1b8cff5f52",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "975bc8f9dcf04fdeead105d84f238bca4587c6cdef900e4fac000216ea39ccb2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image121.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "611aade62d327fe77d3699d0b48b58603a7083b5f9aec087259b684e61827b22",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b68b6c505854389ee3a75b72ca324929fcccc45b89eefe5437ebab535a7a5221",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fa6d09429819837616dab5eb58791f6fcce0fbb5bae680d654d09393e153fb30",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9b920a5d2f83d9673d2accb62b9a8e10920779d8dfcf70ec0cd90f486430911d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9a091f1d2658534ec5b5b0bc3730b7571207f412e851267a09754d03bc42b6e8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7f7f47841a500fd662552b6d1948e28bcfb5c9961143355b45d4c15b844a30a5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b27491a632e06b8aab6a0779aeed4f49091c3a65cc7824263e7a00d17e92c5ab",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image123.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "60b65e8ec4574bbfc3b26bada10ff88383900458265bbbc85d7f471aae7c1bea",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8146f22c9e08d34b7faa7b353b4e15ce5d3e1d153b2b8389d38930f541741e70",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d98c7b3585ab2443c9cd5a22d5a944257c626e754472253045a422a2afac9bc6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "efb00841495a9be8794892ca00aa985b4632edec826c0b027c510d4db8ed3e58",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f521afe05f323956dda23c39d4c8cd6be6a229e042104aae10bf9f95691fa79c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cb55e67c393022bb505caaafb54ef4a047b6f9ec1a2d9a615bc7d9df531f3b6f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "82a4b1a2e73a8c1d1bc8d8d5d2270f4ad550fe64a011f514a24537e166f0630c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image125.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0185dc4c421769c5d76747f1f3741347e16bd97ebfd3286ddcdae8aef1740bbc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dfcb749411b4812036376bb1099b0d7733d18fea0061ec5a587d026e86770725",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7851e176709198f42aacf94255d3fe7d16e2ed7c8a63a1892a2099198b187a35",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a65190dd2ea18b89d6b79254cd9f1461e55367d81867c147917a5ed0b711d20f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0ea4494a82b6bbb1e6387b55c38e5e8e03f430751fc4df79400db652c065c96d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7563fe0b8b3a36700e22318308c976fbca2d3cc637227d8fcccc41d59ed2290f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c2e3ccc1ff9c02a7e53d4c967f9dc190c70a23adc76f9502f304686b8530ec9e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image127.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "448ba797457e04ea9066283317928eb93c386149ffeb85e0ba9ff2205a3d801b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "43a288518152915765fa7629e3281bbfbfe4b84dc45664c420b928ca4c936de0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4be827f5a36c2dd18f7f44176ed87ca51275afdbbeb74bf43bf2b9838d461d67",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c18b78f99870e14cbf6a9d3e1bc6e2ecdf888b50c53f7ad68be0c7276c552df5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "47a4cb3705be5e87f8a887835d3c42714fcf71e0fce40f3410f8c152286a60d2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "da37b1b0093c33147bdc4785d9d0334590e45d409ca433171d46b4280993e5e7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "081b8f7b2890527e3f1e49106a67f8549a5381142bed277214c93e2615eba4e7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image129.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e6a511a779c6b029c6ca1e05339f2be9f040d4ca6c029a2b32304701dafce8fe",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bdff7d822b479026acadd69973c0614d378b00dfa2bad17017ca30ff02ab043f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cd2381a8edb7f260a650fc298783a77ede4e8994d9ad347702e1c565254f0560",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e42aa92732429b022b755e6609ddb3ed204b4f580c1d81cb1adc9719b031fdad",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2c26cfca04d5e0d3be521ea0e314599c8004873ab360bb09b27b13e1be62efe0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "16bd01d0a1d971f95e68ab1d55d74655dc61da989cef0cd716eb68d8220296c7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e36343727a212a75693bfea6eccc2e40892e8e44f904a5c1be0762ccab9ea626",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "009f04ba9e48038709c20db92e1c2b4535d9624f06a46348ef21eac89431e1b6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "843e8fac2818a1483622294e5f867700d90ff1f6ca5db7af180223a993336ad2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2263df3281c1e52e2f305a808bb94eb68b84a245d52d658bc25d382c6b167774",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "198f107de80b2f600d331fc87cfff5bbaf9777545f4e78ca5dab7b2b6aa782bc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0ea180a2caf406f331bc3518c50f6a0eff2ac0db9ac4bdb2d01c673f4245805d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image13.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "23f385c07ab3f494d7fab1982c83fd1aa4b296d63aa20571d55c82201b52ae25",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d4a38de76866cd3a33d90c523e31e789c8b24f1ee7992ff879154ff12a853785",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f0f5e930c821d0abfc52f413ec904881e16c1a1a7a67e1dfed0cc77ae93a950f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8994b1ac3a1c5d313bfa502b3445830134d65bf48667cdafa8068f515a9083d8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dff283f59b56f13ab93481a99b285184949a64cb46e50f652d57c01d4c67d7cd",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d800364004f22986fb77b1e4a462bd6abfe10512d5d3543fdacce2671b04066b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b4d07525b9f86fa29c7ce9f65c1ac799ea0d9614ad8f1c64cf697e1403257591",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image131.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7164c04ead644b0f9a070a228d87faed732ff200208b1ce6dd662430b9402c7d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8b6385709da47085d64a2ef87385d7e71559ff7735c397bb4f4589b941bf4d91",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "440459cd1ae9e3904c48759a2f2071b4abfcc96b4b9466aa4b87bcdd720dcc8a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7395762e34d58cf47e322d8012373c814eab6167884764c14871023fbb07505d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c7d84da7383e48e1fb92fdff2b5c99957f9cd98286b1ac99fcc4ac01b302e5e8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8c61a40f0bc872a71ff387afb7b8b7b1f6877eb8da84873bd74dbe975e438448",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f392de497da5842c9a06429a96deacfdaad030f2bd62d8691c0f21ed26242926",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image133.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dcb2499fc3a32fc488c810d7d5ee55d5805d090bc0a9e618190cba816a44dea4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9ac0cd77f73ac9cf3d67bffe5928288e90d9f3cdc23a171e9382f3e6ae98dd4a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fe530013f3cd42cfb42e3d2af43bc0d61227d991d6e96d3700a38d3dcbba0dbf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5ac55cbcb4001c23100572a130399cd809dbf03a3aa8f879875d0056dcc91370",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cf7c0b435ddee512584b7fa2a04479fc8c77dac71f256cd777179a75823fbc87",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cf56565d7f306bf43317f9029cb9275f9d616a44e4b94e68e21830fdcc7c81ff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8cfbac6584bdab8a16e8f394f1c717f16884b3a93b8de7f34d57b0532a4300c0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image135.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9b9c698ea532e1722576d03610f7a4f0358770b61b6b659380b18cea1bd0a2b6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1357.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e92dee0f5cbc1259461a289eb6083ced5f732b0c9fa46c4400120bd40dfc2174",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1359.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0dabcc519e0d0fc20593cac29261962aa1cd4193e99a1940da9c187c75ce8a1a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1361.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "df1f55d5273dacb458b0971b924accf51bf59a873a4e5e5854c3cc345353790b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1363.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a5b5f58a7d6a9d812d0a25a6f4aaf05a9a169d44a289106b349234f83ace6535",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1365.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0db670ba59f0f9fc4e826220e8a121b5324a92e45a02bb07d966a5026797fb3a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1367.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8ee2fc2bbaaa63cad404e517ef57378c0357b35b5e2280b1611bceac947ca67b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1369.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ba4a3fd26392a92798e01a1ad9b03641157ac4db435589cd2412cbd7b9deef0a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e888bf29f636ef5da6b3540b76429cf34f9d1f827bea43e1e2c072f08d842ea5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e841a9bf1cb7611921391b42cd54f2795814b93d65c789097478d7650968b8ee",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cd684cef911b6629a58ec1a842a589da5aab2695abc35a26c9f685670f65139a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "594324169309fedbe798dd06f0107da0f494d9e4427ca86eb875408958c2f8ff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ccda54c8b1164db03b765dc3ac26f14311ade0765e5006031089fe725a797145",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "895644975d17d6d2c8d9525108e08ee816eff1d94dc0da233905c15bfa0b282e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image137.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3c8cebefed041df2a5865dde9fc86e735a3d5cd0dbba79721cb9ace5d7936ec4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1371.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "15983d4edbbf3047daaaba1cca3a58d3c551887e63d296009ea6b22c1806146f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1373.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4212ef4e7ed2cff8ded67c30ed08516b8cdcf0ce772fcf67ddd59cefde895caf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1375.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0f70db54303b8d28a25237e8d439cd9b4e3eabf9486f1860e716bfc88c8c8131",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1377.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4459bc1fbdbf0859bd948e44a3ff876acc72cbef3f4b075ca023894eca8d0e1b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1379.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2fde41f82f03a5a5d1823cd70ab77d8a3c5d2007b70a699849d4818b10257e76",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1381.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2adc21376b94991e1542472a1baaad557b7fc556c7ea1804870d37b494d2e5e5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1383.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2f38fa2df78bb4417a8ae1daaff563099dbdffe86a693c400a6292d1c781b41c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1385.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "139a945110169d7a8d055ded68e2bb6e25cc10128fb513689d88dabd29a3948b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1387.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "511fd9df2974bc7348ff8efac2ae203f91555fa410c4c1c16774eb565b9342fc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1389.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1903c5955142a01b2bc799b39f64bceffff9b0e2f6719ee8fa1908d0aa3df1c7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6528ebfaddac8c6630885d824e6b8a0fe39713d0599404c517f598dc0660bddf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1a050a652ecea462b1368a6c73a1f4459491186bbad574a9159a1be93d1cc8a7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c12c63078a58f56b8898ede0d6923f80f2a1231e1e40455cb3e69330705a40af",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "86d33698593d930fb1662756910cacbb0c5c79fb8a6bab7eedcf508dd29b9ded",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "38ab4acb7e46d701d82d05f7510afc371e50a8bde4dd70fe279fef5edf68de3e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "41b9b88e21c21abbfaa8604f5dde988b001a5077794026e49d093103a116e9bf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image139.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a0082b184de2a2dadef1c7f8de32d6969b30c82fedf1e16defccefda2aea1118",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1391.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9291f93d016bab2b1e58c00cfee86a67a9b69fe26cf1b4357264673691e58175",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1393.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d55249e7aca1d4b54a7640b844719aefcd61e1ad72342eba0147822b8ed101b4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1395.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1f2e37170da14c634d08c0137aa04de9c308f80670a0664cc73f47f836aee126",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1397.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "772f329e5571281e0aa7a2ee6c3122a0ea49a7c99a8d4230481c1152f8f2207b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1399.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "65b43b62f9b1db5c8c21cd267c4b39ac1f4b4f0302f0ed50308b1bb097c1fc7c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1401.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b1a0f03eb5d3f33c5c8b09517092b5fdf2ab7d43d934317a9be820ad7f91f9c9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1403.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ada758c7a55c2fefffafc31701cb200fce2a2cb5904c00997b4980d1b33b6158",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1405.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e26cc8e538410861744d3e7d37a9304a1b15ef0aadc81feae32b7234779b2e42",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1407.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bc37eb12908e03522736dd6fab3f69f1a3cc9a40c0916f94b4f16c8b8f2eb28d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1409.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ae6e8d36b126f24e0513dbae67c2ece8740ccf0603cc81474c52b72aeb5fda65",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a84954649f81a47b6bb7831e5634ee41c8533a7d5b6b455a2c6cf556c9da028f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9c469015dfa4e131993296f74aec4d61e9fe4569e5f31009c6b3d578495874a2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9b119be399ba87d2c8a7ec495a1d82f8cb8ee32fad9c75eaca29a48d49813e61",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8195babfe9465d88ac441829a51c8e04a115cbb8473791d9863f7096fa7a844f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "20d7b0d82f21bba38f22a351fb2b3b57bd7e97f701dbf0ff07848d9e3265e675",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bc4da40cd41124ccdb07cc11a57d6d6988949c5a7d858f2218188e4581bd04c7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image141.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c989a9ea795b32d9a89dbaa24cbbec987bd460d2d2ec09935c810558f04603e0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1411.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4ca3982d4d69f0f829b2459ac3e61e644063fceb2a1347f7e00fcf8fd43f4b40",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1413.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b969fa01f696d6f742fc7ab8275878e4e5e07cd3b1ba93440060660fb8291e48",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1415.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f14c8bda687cd4c35a405804e9cedb8e775ed96226053b2a69478d8a81c74f36",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1417.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4e20c702afa006c0b86b3044ec5f227fdf53e2bc7c051f433de81b2ad35b6572",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1419.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "640af8422f04e6d199fae31f2cb486a07a9dcda55d333a82e9a80c6c2b2f9f9f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1421.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "45662d3d7d2a9dc137b65b18ebd4f625f5316f337d1974b320342a902525a33d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1423.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f931d9d91b3f5d58904589f43b69841ecc5faaaaab823001d7150809734a3ab7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1425.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cbab106163422f16f9d96bcf695f37a5113e18df0f3e9b37766d357dbc4ff18b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1427.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2de041b4ba7020cfca2e606dae46b6118a36aa803fed42f813d5c524445e9bf8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1429.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cc6683283b74d00d097a880ac529249ee706d640bf1c754578439f28b3873bd9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a913bcc55428535c23928fd66da044eaf1d6b0697f41263490d79f26bc37cfca",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bf7adcc13a1a98cd8dc79cceb10b93822f9d100ce5eb27cbf2ba5c96b8fe76e1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f4c21272fd95b6b74e6eb3551576887c532ce55a593e01b3c505b6bb55bb1648",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d1c76819fa89c6621799bfc899d6592a3fb0142f1ec02e51850a7b0ed6bbe9e8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2df988923ccd67edd884253a536054eb1e285e356ef8ca5691773463b00a4ec8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4cd05ea80bf94c1875c194779971e75e642825317f52c4c7286e6105b6ddd8ec",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image143.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2dbe15ad6391a7ca3f1ffc3d85dce4457d7e1d921cfe87429abb7a322cedcd9a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1431.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ef4535c07c7518821b5b58afc7e7af5ae9d9e540a46893b6b5c0bb9867584226",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1433.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b408f8a5ee8cb4d5a8ab8c4ace1ad782f3f892c82c4201f74f0f44009d045f40",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1435.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "37119f2b050b512a091d217d682a8d4cf307233368dfdd61ce3b45973752e33e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1437.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "aa62f4ecf550e36534dcbe7bcf84c389017cc4c00aa083af35cfc6aad451ee34",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1439.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fc0d6b1b8aa0994e76eab14f5e56921a898c4faf20b731141f49417478bd18a8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1441.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9580955db684654179a5d02be007b93834f9dc25d0b3600fefbeb3bf84b7a7e7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1443.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5e9c7acac769cea9a39a2fc9eff49c263edb1be52479b63f91e2ee26caa5a26f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1445.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "03a2bf8ecd7c5441adee2a0ae7cca9b76e428645e788c74741bad53c9051a9c7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1447.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9b17a3677b78ef2548991c77144e2fbfee07f3f2268b86b6e9f9a07059401f4f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1449.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6a1796ec3e7050338b33aef12b7a29ff6ea5e193b4d247ccce4f398a65252af5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "37ab3dee8827c0cba23e897703e36ed4c7fe83e0a1e2211659d0c3564d15d319",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "79ebc142276787689872adafad89dd5ddf5c9480362f6c2163f9b042515d11a3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4dd40f7e8ab110c2556d5dd69cba9d6b2f1146b3705a3f1f5c2f4144862dc3bc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a80f683b3b35d4dc45046cdbfe2115e73d50d9a71de832a69bbfe1639a401899",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c0a353c14f82c1424f8f22aef12ba9d9e24685b3d94dbcac9c85b9c4f5c08b1e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3c7c4b38853abeb7ff888c97d92dd1c78de578bf8d5b4ee6d1c0c4d1bcc2e580",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image145.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "03d22b204d146669a54085c22c46e9c7dd85039a8bee171deaa3de02e1162557",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1451.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6271c8cef5a77f9788c209f5d6a8bed7e1757279818fb99eac2d6eea0ae71149",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1453.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5258b56a14d3eedb03b45b430168f99f77e687973142839e7d0f8f552705491c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1455.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2a0c74e31539c70e5cbc6f4b0c64dce84144eecbb6b74bd0ebeb916864ebef2b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1457.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "28f6a3e53ef2fb2ad9f2a5e9c0e63e8e9297f30cef25742d7e60bd485486f88f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1459.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c3418c2cd8e762786b2e116be39c5ba134e8cd13ee425e1ba286331489e8852f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1461.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "920809c7583e45dd34f82ab9355631efa73ef4fc992e40aee06750e6cc25e07f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1463.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7e9ffb56b050fa638ae8ef5284cca4b047e2c78eb0106ab877821882abd5e21a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1465.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "400116d5d724606b2104e10746adcb39b37fdd0f4425e4edc0916c365a7d3b70",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1467.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9bfb637dfa83c1836f8ce553ff8ff3c8ff5d87192129bc884e7db949512d7d5a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1469.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7058773de46c39430b9a7ff1b54d463e5d86fa4d8cdcf97d9736beef5807ef6c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b0eb54f79e7e9eba30b61f5cbf9e0fef4f14aa8b3ce48c2db8e0ee23f7e11f45",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "89cd09be6814976d413253530e5066b25ff4b9606d4edabbe55a43f159450e47",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3de02b37c06e911a686dc84bdb5378a16d1cdd9b98163e1f286327f61da52538",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6275da24e9c289dc69c1217f18b57526c1dd35b567e20d04c2c0e4a5f790cf0e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f105ab37a6af4597739dd564dabbc037e61cccf207acdfd6c1c8b773f42bd7a2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "70ac27dbffd4339a7aadf3862dce073405b341739ea6743e9916925a8cc38019",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image147.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f927eb7ecaf4e3f2723c6321a615d1165a7caf944a6d9b15f8ff7a2a72f5ed05",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1471.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e93a6724db7bc3d280d830b2d78e0b748cbf761a380ead60dab41e2a21990a4f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1473.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4001a83a066cd55e8874326cd4c02d844ff897a49bc91822f74426356d03bf79",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1475.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "08e925b47f53716f222ed4d55e4e0323a6820de70ec0b14240fdfe82f5e933d3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1477.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "29a5c55899022ac6ecf9d6c14095c409754fd1ac02826997878debe57066ff57",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1479.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e93896886304dc2694b47118253569431d4b48821e7cb7de313dcede8cdf7e8d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1481.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3c366a846f9c44db07d0a8a69ea9bcc35bb03c717598813d4aef46b8f457342d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1483.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "046f2c9ac95fc0a8564c5d21bc9372fc71ecc4d11312fac5da161f16d2694662",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1485.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9f0821042b72b962278994d18209eb408b54fac32ba282efc84d6270c5a0dc3d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1487.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c470dfc46d1e73c5a41c04942bc27feaa496e424fccf301dd4c9bcee38c708d8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1489.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "05a52e7e950bd6b59ed8074d8bf4b1a10adbd8d0128ab661ff70e426c70acfba",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1509ea2286fb5765a707e3d34d34167a1fb6e4b0997ec967140394667594f20c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e3ad7074705c78bde4fafc8cd3d324fa400e05a252a73aabadc9234ab1e6f256",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2006d6344a9deb2366a69bf82935959f0fced31f6b0e6eaff773301a8a877368",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7bb5830c1e085d93fc078dbe711c2f2b7d97de1be8805325602393f563de0015",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "661e32dbdc7f7cf4b5aaac67dc4c55e61bedce13c2d963cf5b1ad07a3bccaa56",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "da04557c0b65bb5aa5c05b9caff8c1726cbb5f06170509332744a7a46066ddff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image149.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bca5e8607b13f1a48b77d27640e018a774e12a37f931e853184fc18119bf87ef",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1491.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "01d284b9bb1c23898ac2872e55d1b712d3b909c98ee0838ca595712e56c825d4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1493.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2c5c9ffbb82e2a6df0f2e210259ce541e300ed4a0cd5581a029714c25cd08100",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image1495.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7f61d0503426eaf42ca498915faef688e52dc8a9695884b84883b3ed378ffecf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5c9223a755d09ef5b77fd7d941b61687c3a321ca4dc521c51f3ace33c926058f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "863cff5a5369f1705a5791fd44463cbf2506e5fd21ff1bbc4197d02813d79889",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8d4e98bd377db115ff70403853897d00cbb9b2c303415070af4ac66679fde74e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cf5f70f6e6794421b13a95b25f6ff3319bdd3a4609390a3bb653f0eb31243200",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3978bb1aff934538e6f0bdac726abaac953ad7ae012e0d07f5b600e511039c0c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "779e96c97c33b6a616674bc9119fac0c74ebd12ae713003122f107980e9d03c5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cc86daf0bde88374c1479af5bec69de0a24e28226752b70cb6d79fcfc2365dd2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "addcf2e6efb58a0f8a67db3a065da525a5556be8fc156cf94456efa814e14350",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b0bb9589c475af47b45ef23ccf6a42da1e82b9711aebaae37517c31ef9cb9a9c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f75453c0165e5c1c0f6ee9447570b4eaff31c5bbbab1b06e1983dca22000643e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "964bf83438bd9aefba635c55b987dc52acac7e5cd6f2dc5a0a18a8a9b0f18b8e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image15.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1b106b48dbf1f02363e347993c0f782c01e44ad2293442539d6e5e8a26bd5d2c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "56c22cb7b1246dce48ccbd1fa49d9e5c3f871eabb180437956c8e4ceb6691c11",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c818c295648f2dda2c4f7d745ef19323d8101b1ef58d2313603c19afd23bbe70",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bc81e81898c7054cc6448fb1cf2d760e91224b3c8fe041ba89c94189ac9a8a82",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f573382377eff1c50fa8150cd787c8916026ec8c6f9197c42e423ae3aab39692",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6dc3670d2ff9cbdd2132d90dbea957bb5f80dc449a8a53e23496228e14f9bb6a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2ebdac371873a53a420cd308603cc05c3f5ea8b862430945c70d1ab4556e283d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image151.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1227ced93d69cb9ecf5570d03bdc388008160a8bd343b03fc580139af6998cdb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f6964e3d5304b5c87c90aab5a8eb7a9af90f218f199465d011bcb9647918b353",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "42865a5e093ab83b3a190c5162f0cd5c25c0db430f83d30921e3b20355113025",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c254eb4a449582550e971909ec6c1c3d9edca185830b710a3a5024ee7007d1c4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fc534dfb5c28e4a002511cebf90277d6b310955aa91bc85e138c49ba598c4bc7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7df0c5a617d085d1560259fb90bbb8cf4e28128e85d6ff17b6b092be5dffd381",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a6d3a803e03d43155604d481651a5a31ac48e3015bb84cca1b8aec792bac1921",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image153.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d89cbda4055efe8550fe9c211c5833c7475f729454d15875ffe497263cb06fa2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ffd24cb10b2021dc4b6036602dc7bc573ab4a80d1a4006d65bad5f14761c7de4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "13a0539f3bf6b8e9adebe50240536c920080c250e2de5bb105083fe1e1279da7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "db5a4367d69b59fb57abf62e549642226ba273b72c1f623765ec6de45548179f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "756c90e4283357cffbbf0e1a7b8477e310f7f965e84d585ec1670b04d614ff6b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e288a95f15ba841df6bac6d6d7241cf39375947442aa4f6a23ec11883a9e1fd3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "85b82cd27b18d4f638f5a97ae2cf750363f2bf88dfd09c9b44167dfb6ae2ac20",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image155.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ce5394db4bda8313ec3fac8ed44731bc959987a502eb094dc1a73bca9e16e9e3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "732d073c1211c4a0fd29c54c76f40d47d471492d75816c96c0204dfe7fadb9b8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b39b2dd94325e31607320e5ab5124f1c4fb8ece3766cf5f5a9e0dace59875fb9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "970b0a50ed6593eff237575b72b93b7e7a18b94ec5a176c4ce476fd2ab821366",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "beba0158fd6edac19f43869cd7f6a1a003226054c025703983d28f1a05d87d4f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e5c1aa9f7938e98e40bb7511e51838bd576ec249d1e400d707f6a60d5f08950e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b6e11df250203a21ea5b754d906af043037ec36f7727cb5780a041ad66c2db41",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image157.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "add3dff54888cd7e76702e01126b5dc15a039acb7832fcc247e52ca5d6c2fc14",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f6ef2e8ff606ed062ec97eb2864740825080a53dabb5c6718035384f868e61af",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cdd894319975c5a6cb663b3498a050b71ef9a5c87b3f3ea1a4869ebe257e4b9e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2047900b645ad8b42eb12dec515efffcacace2a8c12b23de6d25bfdb2c1aa890",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f3392b9b964c07cbbcfb6648a378ef4386d22b738e44f0290c17bcd90c8b9431",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f21e0bc59518735ff77ed7bf882cb12ab0da9eb73fbecfc6f1ad5d5faca093b7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1fc889cbc439a82193ecd46fe9dc59a8b7e1322124ed312e60f7180b0e6245d9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image159.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ae76b336b01c766fc5418fefe29161e14cc8c0e2d446508545ef1c826f81b33d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "17f140efba318af7c1cfd3b7929eef16f8c8c1ece12729863d3a6a1ac3b3280a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ad35862e18c271df8bb237b5701cb4559bd2e32ad8819becd997088ea9f4f1f0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b7de77f8d228a0f1298f1aeab45d1addfec31977b364cc67d463d35c153a79ea",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "789aaa66caf5eb8a7ab01b3ef0bba7030a547846c2cfe02f1351e46cd41e50e2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "baec2fdc7b5e37f36149f36ac9a37423665f128b8ddd824b6761d2bbf1f838b5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b0c943ba288763170ec82f891b2b8caa1b39e1a5cd742fd8d1268b6ecb0775ec",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image161.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e59a6321b9d676a440b9baf1e655844af6b12bfaf29ce58201b23c1638e266cc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cb200feac6a0883a0ebf5560c4cb4b5bb1dac71bd472ce354c7aeaa62f2c093e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d44984459da336b9623cc0ea8689dc7420d6f612060994842e9921af10c5c7f8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "51b9fdb375ce369a7330e2efc0f348c05bd90feaf1ba6a91678aae348f02563a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "aaf433430794282c80898a7f165e99e9395d7ae9324a9299eb8cf3205132a28f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "564e7af37a71fa253c15911c0d982f5f2f0377a8d5b7a9087f2690f5c9427e1f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6d35ec14ffb58b2860c3cf04bc33452ce80f84ca3b467a2ce06eb5e8485ff668",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image163.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1eacb838f10d624177d9a11b96a2e3ba6306c3dad6b1f78812617e228f57309b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "35e5ad1e584fc26c75c759e58bb7e3b10e179794982f215a138349c3ef05b1b0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ef385e63493a7333420f2b799773192ec84eb23b7ba2594fb95b22a387154653",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e4ed7f4ead8d06af5e4c0982e6a10c169dc7583ef2a261fe7f72761b04b2aded",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "618217c851be89eff1edee8e461d2661b291352f6b69c2aba1f8218d68d81056",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "372b2b700bb8072c3e2bdff3824fd02bf001fb078c0c2deeb64e84bf4fa6b585",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "50e913c112b408f8532b9cd991f54ac4f704c6afb496f7f15fe9075d772fefea",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image165.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1d9ea6c30d970d3664c5276f11de9a15b3d9f3ee522e88de0097d5f4a514995e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b24e105b9b734e799979e1dcbb7e4f980c43e67884228f6c03852c3cac82d860",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ba8e5f58212a85cf71c6f7a7dcef081de7841d75c67dbc8f4a46db6a8a39962f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7b4457127a6715ee41afdb0616d095ac93dcfc411fc82f1dfb31e2e0d94b3d74",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f280784867f6faf3da6312b889b8931cfa626c9e2890bd0f39efbade800a4dc7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5622f4f0642e484a663fca5bb512bf55b62ceb6eef464fd8478a7b738383f2f8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "26f98bf8233a3f5c2220fce142fd507f9a1dda3d5033c5568fc9e0ab667c8340",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image167.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "595e87bfc92de26fb40fe8294ed65cbc176aba8fe0d37f8b0ae216a329504d9c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "89da2019e143cc89400ad7944c32be4db13b3aa6abb79517b41ccc42729c5ca3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "011fb3b78b19258cd1336b221509e754d1907b004a5922998b752a68bd7e02c0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "185105d59cce7c6bc6bd06f84a778ff17f157879140d3775508b37af627824a5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a06af42995a9bf614a7ccc1c0020b05e5a23465747ef97756bae716c2dc82af3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7bdc6a60bdbc0551c95a3e0fb32179a66b382b203b25f4456b917ca384041ce8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8d7060067eac31fed05b456407ee2b4cd192c40781c2f3af2b873170950cc4b2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image169.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d4a5de8c817cf9e191489089c2434d527b62b383caddd28f82cfbdb927c788cf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "db209e50e31847d2c2c3650156bdc6dccaa8f8b710b11f44e5c0d4cd232a5915",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "be615fd1bcbda2d9a30fd5b7bd5ede74f815d520d3d6908efe25df8e8d5a73d9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6862bc2c98a32523537e18378c1238375a15fd79c4ecaf0ed246895ebf9b727a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "af4277f1c2ebf0e894e8aeddb7d2d550bd01fce08944f8da33b13d514e3702b7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c87078775d47f4138836938257b09f5cfd6012142bc36b119812ff3e871bee74",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "82c0444ae2936cb558b6c29da753e2eb7fbc926a99a1046c606c74df0326afa0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f48d00d4ac9da9438b58b98114f40b50e241f71c76c19a8183be0b5a6319fe48",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a630f26bc68c2f2c66cce36175a51405c22fd34a6839a554e3583f7cafdbc0be",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "12ce176f66891c9e7a98640401a7607abc951d9705be318b63e08e2e99634b69",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d0d2c4c83be646d760e449e5e192cdc3005eb77480c248195e379c187e9a438a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "93b1e44d3881abe18535898002c545038247e0352253e1ba2745d9e54c9426f8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image17.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b911884d18322aa75a5594146697945d6d50470a610416e0ba0f071d96f71e26",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2f5f4d0caf2e7dcde11906a6dad059aa0633d3a3aa7aa9022346d92cadfa2913",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1c63ebacb79edc631b4be156eef34b9976c24e26da3274f30385ae773c83c23a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e7ebee33fa51f424bca754b2079aa91da38ca8d28dc2fb57dd71a0bc7ba2509f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c6a2c3ab2b46a97dd12c6a140db0aff7cdd8124bfe5116b55a7c120119edceb7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "557cee9a21a80f56e270e7d0c89ee1d1f50752b664fe0a451d26584120832f6e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9720ea9171deaa61e55f3fb223f5212b568907b7997a8300b99f4cc3523535b3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image171.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d788ed7a8b174c80394012977ed88eac7426f68ad52a30e513daafb7c1c4eaf5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d4dd0999752dfb2817a4022dfaa116bb9a10954872b8ff26032aff37e9ca3793",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "10c8e315883a305f315ec1ccbbbbc6aae4aabe404bb38800ed043e1909527959",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f83a7648575aa00f16420a3e0f9f04c81b2e2b6d6763dfb85c2230ae64a7cde8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4a56a843b26a5c843c2d62a57f8d5d012574f6e143d5e523b269908c78449d80",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "562f1635721f42a3678e301552d55703b8dfa348169b07667b4f561ce3fad007",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1b7fb29d58181fea3b6f3daadbac816c2d8390139c6a2daf29171f3b34addcdb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image173.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4a6843e3927ecc8e289a24c91a34210b7af0d735bc7acae1213dc8840a29f442",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "739970bead647bf92437f7db0bf277adb439dbdb2ce9205ecd87e4ba58a971c3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "96ee5d9152b5d5fd92647bb260f374963768de02211358710929272188c6eb06",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4c20ce20e1dd828e638862d8b13ed5a893ee935f30f8758b9dda45a9714a3457",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a3d890b7bb2155e6a508c59996b4e47748d964d31f99278c1b6e8a05cebd877c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "68675e513f1f0cd6ea851378b4be5260b2b6f1061a15f19a825055b7a0617782",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a6205cc9561942ac7f8eeb2cc1e40e1b6ef20620c521a46370d2d88c458b8f3b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image175.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bf6ba1bd187fed7d2e72655c0c45555e8bec65ef547b71a99ce100718ecd3705",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "12171da5b616c58eb112e85a0e99c6bb40f68c87568d089c13ae56f450503e54",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "677496561345f3db3a7555f660c5a7273011b0c8a3736c43a7f7981f9c4ee234",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c9bdb11140a1b10adb15eb1a97f10ff47fe6aca459b2c2219603a30a1cc7003f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2e9cfe700b3aba0e1da6930fbfd4b1543a0acf7a569c47487ae3b163fc80796c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d0353ebb04374a8259bd3e265ff3ad5c04a2b4a3a8bc7fd3f1300940da70523f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "11a941786a09dbe1851548c330ba1fd61cf2c40e81b96aef8613e67277d25ec8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image177.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c43a0df902c94ee0483c1a4717628fa00180f2461794e96bb009c5f1df947a6e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4e7b257ccc6924049801265c9d502fea17cee0d4f950d2fa39f94798cfff41ab",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "75f66d9d9e90fe7be233f6da81ce5af17801692dceba861562dcf628d7efbff2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "81649ae1ea1091c9965bf24e40654f9ba53c659825965eeb460633bfae16fdbc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e4ec1616ed5d71e8b44d85e3dc548f5256d1259055abf5b66e39d21076718ce3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a7f4a6d0f9f9d23b266dc13495a1d093f00ede558d6d216a46aa7cc07392d442",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "56a00b5897a84577a9680586261e984367768f6d66de64ad7440ebdf9c5e8da2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image179.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6046aac09145b30a7473b788ae5c8c1b05562de7343cfedbd41a083f31422889",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "94411f33dfd6399eda1b6f2e01791af8d458212ce2016e7051a96dfed5e27114",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e3d90fde149ae6f5dc79d17d1aa499f9d261935f5ec4730df5fe3a427e5ba7d7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f9121c8eb1391e6872fa020bde4a88e04c2e593cce7a16e7986d46a6162ac815",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8073bb7661bc168befbd22def1816e634843625624baa3745f7a0d98640159e7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a6491e48918470fcdc5cdc7cc9351faaf75a13cac7fe14fa12b10eb20310038b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7a72c7dd5faedc7924002bf887160f31c5ac26ff2918449ff485744d2fbf34ca",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image181.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4d6031d4e28b3540e22c6f50c779c670a6a0ec5ab498057aa8cdbfaaa59c3a63",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c3c3d0af59946d28779f8ab23e3164c62993d610ed7fa8d03ca27e881a7935ca",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8bcac8304bef7f7a4512161e9876cfa591ad09922472d6c858e1d12f1c74ae56",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f52d9c6327f9b81b9fd541bb45251de476244dd8c139163132952b34ec0c91ff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "35cf9b2cb3ad850475787774831690d7bd1c604d69bd1d98da98c3d0069f825f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6015215831c69c80bc81e999bcc3d8d285db7c5ef431643cf4932d956376c769",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7b83affe87826c9ef428055fd4386fdc6aa5e0bc12cd19e1aaa91112b99cdc82",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image183.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "64bb1340024305951befe3a364de5df8ec6f33e5b53b6a675924f43b892619fa",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2857e541cc7b7d44fa99c65798848ea4b8121c9c1b290ed0e1c22de81f4c1a38",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6c2d19ae06c5f0ba9608ad4fa8e015c503c9cd01416ab6b569366cfbb8baab5e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ff8d2b11e87d73892950370183e847a6203f30cda75c194b2f8395d6b8bf546c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a2706a7376dd28cc2a983bea5097f76667eee5d9a7558fe430eaa87cc6d962a3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3aa755a843a8666c782c358628adaa07937935ec806f1112c17439c0f7b321d7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c961d85e5e86270cc73d48a48379b5bb9c24cdfa0ef5389b97e3c5beb61a3d4b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image185.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cd4612e654d5218bd62f319435ea30ef12f7a9b91b8202b1e1b0c0d1aa6f6e2a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6122768763db715e6c376efe356a88e31997f3c5bac19e4b41ff7bfa2b598872",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5a5e148ea5baa72b1833bf237f6b7570f9f6fa935a3495b92fc22f2bc076de64",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e5f9188d3df12dcf0900605e2f19864066baad043f07d2c6497aba7ee7b895ab",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3d851fbf7babb98de5714c6c9b8abb2101a7a729376237e14eeda459beabe395",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "75c57554f48dc730b9fa4beeb5fe56e8d12148566819a55237f2c06e1af62786",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a0ad555708a4fa4d295bfa5030abc4b49bbccdd22261803b4d6023084bde2568",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image187.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e004ddc2643e6ddf5235d240e6a0f9034e041f5006dc2697f91a99c58d04e443",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9fc12f5d3899b89ffa4b7f75d94e0f25709c8d7ab2a7e7f3dbc23adee318ed9c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "735cee41e8e9f1633c22e54e08e95a93fb4a1357a2eea608a478824cd8c6342c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "359390fc82d72ba230992c439c690587cf4173da463e2e11d6951d6d1414832c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "21fd2943099ecc6927e68c1d0e7c7c8b287bc73247763097403404cb514086f2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "47f7db71028ff089d47515471a7b7f0941b0f1e13b7f97edd8b57b2b6a7ddd93",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4907956989e8c7a7143c5a074220eda4203d29aef18706db9a2b35c4f896c236",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image189.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "603f1782b4629e9eb0124aebde4fbb36084d2e31362b49d437de93efd30a7447",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "57c6d7838102b100946619185470b46d210d67ebc2d6622bfab258862a65d402",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "684342051369dd544626cfa9fa91aa636a52305bd28d8a6ef76531671888423f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0e3c6deed3ea0a3b2f5b0204df1c6258882cef980c842b32cad88699e65160a5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6cbbe32782b9bfb02af13ffda93859968d8abf4f3ac251ca98d66f5bfd129b7a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a5068413bbdb0817badf85256b435ea5c4ccad6d068f3abf121ee8cf986a9150",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d178dcbbe74c816050d58712860b81720be5be4f2d3e64331ad49caef355e74f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2ceb0e21fee327673967c3b2df52159bcc3db6166a4426f27f8682ad117ef70a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6d053e3cd68813b926cb7adbfc57a3b8cdd696b26132d1474703efd2c977cedc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6807f211af462e3fbfc1b2ce9261bfb84b85d36d88069d417c02d1912569cd57",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e627d508d22935ddcf9bdc7b39dccdfdca754a347a5e97f94f5301ccfc21b15f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dee244c355262305bfb01874d06357594c54bd4b7dc75100304d66be37e03acb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image19.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bd8521ea120288390c4d30b92180965ece74ea4de790fb33e94b3f62feeee101",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "58037f1b2eef58a271cf5952d745167b23920fbc32241b023e68c8ca15677432",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ff2038439c330d6a9dd2de614b45d71bf5bcf8fb3076539d1d2cb0fdca8bd238",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c946d3a7556696cf9aa9d8bbff0aedbc5e1883fa8578c3e61ee1b954f72b177b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1a6a3096c62c0b2b49e35fda34683cc31a2d853a7048e8689b14ff4f0f0a7ce7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2590ce739e32b5f0190f7d163ecab10b77459345e2be6c3a9a4d2db6c369b3cb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "276c6c5bb6e509c1331c0e7d954fdf5b750b5ae61691c3e4c8175a571360e44b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image191.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "adfdc1735f505ce1a63e200f9c63a9a796d907510082d214753ded1dc6132b32",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e80566086590e21afa710ca04beb6ed9734d1894e5d71cae9b5ef2d72333d097",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "182414b511d1d042c43a8a385474a44071edabba4b295a408abe60cce12b2865",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2c8cea286bfec573a13dd2410b013e51eb0d73b7cf8fd2a92e0cd897f9d62cbc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b16543c9f10eb323f3ec7511b6d2ea1b4ba0b2ed295f6c834be715dd773a4941",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "12b309dd286d852012d2f6fce63f4806cd1429997ebc3282bb8f07277a45d81e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "464b163fdd27efad31490a3e6bec500934a8f2fc0abac07cfca3915e169acb7d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image193.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8e92ca210ecef790032000c9eec2288004ef702ab9c01d9fafa8be81c0f7cd34",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c95e476120d856cafe7dd7929652fd9576791798325d2992b36ad18ed15427b1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c917c87e565ea96719b722b03174b69056c6a529852ad8ba3d3300f1d960c08f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b89e1712fca1b852fe4b8115ce68e99845998b178e1081db9cbad8b73ca918f0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "28000e4527f5c6c6b9f498ac04b9e6d9e90a9ccc8ec35485981413b92c9e3d2c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1c3302f245dde129278ea182951bbd7460ca214832994c52a47244ffced12dc5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1117aa457be55d026b94838fec0ce9e1ad2fb46348d44809dcd1a5e1b550a6ac",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image195.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "eca2d79cd65ccc61026f0a84bbb1ad40305783b2913a93ce53cb1872de48b3ca",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "08ab7a1c1e0f29c98ef3817d057f9f9d1f2cfee001c8f96aec3f7f30593e0d5e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "051d9304828d79d9f809452e42db3daa5d44299f14f2c098abeea55780f26af2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d8a99193a37c4f7bce5217ec97ee990641b76b7b047aa0fc10692268e307da98",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a72256acf358106fcca848b3cc0711ec0051bae9386e2418dfab8ebeefe56247",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d1be132f720358e8b3e93fc43f6842f61c8efb5b401f07e449279e2c6fda0a69",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "45d872b245a35c88fc034d8a36375bb6ade4250bb3ef896076ee4c779fb4e8a2",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image197.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "78e214c0e0cb827175ddd7232fd5bc3908ba2780e9ff6bd058f52e2aa0045f89",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "df9d37b308e4720edd5b2d6616ef9d25a9e7e3d82d8773d172b704500f4f79c4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d2951f640f1cd667fc2e29b81280b9f22f677535b4de1745f73c7f2080acb4a6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "557ea6038d3fb886f4f3ad69ea946be8519403094f9fcb6f62862f44f923ad3b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "23c50d59bbb7886fc7acfb8a738d1029677c1783d2670362c2fd9e9986bbcc79",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6845fc226ad469c065d6336d797495bea2cf5019f2894793d21489b2e64b375d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e1457d6da0abda32f3484d2c9a7565848f967a8accfd07f59dccc78684518d7e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image199.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b777cb745555dc5c8c1ec364c28921fe6ed41dbc2a3763fa5833e8d9c89deb50",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fa89b6a414d2f71dec8df2a971324248d814559af7d390b5b13b00b87b86654c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "21c2261704511335197eb8740415dbe5cc3d9134ac8457afe4928e7a7d6b7731",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ebfde60254910ae7920b04bab4656b4330829b37e4e602ad59e84dbce836a77a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d823e4007e4fa5b6878b6421e18c256887be58cd3bf0033c77303c32dbf38172",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f6ddcd3369fad190b13bacebfaad5ddd13dcfcd3437d23de7ec73e57be3aaef1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a2a1dc4bd860ce270925c3726a2268a2a5a99e61840ec18a752c378ce1c978cf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image201.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f3fd86f5729e6e6e782d6744c92885cb6ab8f92ca32ed450fd88164e8b74e22a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c4ad320bcdc5373e2e470866808464c93b2f677141f80b7e0b4b8decbee00b60",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "339bc2564f819dfbada73f002db90ec48465ed8e9c4c3f96eb193a6d962494f0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "17556ba55c0451e07707c40954d2ad5e5008431908d1cd2a4941792fa9d3586a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "62adef59c587d584c6f55f36aba01fbfec55e47204c83633d1dcd14c323cff7e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7456888d819cf42bcc1ec8130326cc52694e7bd90575460e0c667b31792730a7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ab8dd513ab56012905690b7637b2f2507b2db2f2fc830a0075f2ad6d633d01dd",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image203.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "993649a98a0c165d4994e969e308c89118f34beee3db4a99cb8ee8be26b90629",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a4788a8978e520c69f389dd84e52563c932b5ab42cc73aa22cfefbae31aae003",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7c5f09dcab4912d38f43b550a1f93aa299fabfbd44bc5d7b54ccb068747b0b72",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ac755849f20b3b89d59117b3b5f411f9a324b6edfedbc418609bca5337089bef",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "7169d69cc42884c1007561e6e1ef75191e6148365d4ea415f5cff3a0eecfd993",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fb876f7db4a68969943bba8fb1f86757f00b9a2170bccb7092292d8e7e2b24ec",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "264b11207ea449c9d875a478a52be8fe764c7e28462e7013012912bb4e351aa6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image205.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "04052a54aade7a66902879d263be4df38cdc8cf087d03b580be16c5c3e614189",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e8628f638f4ba49cc2a7f5925e7ba2167b60002aaf8b5b3f62b42a647ec98884",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "51b812dc9ed161a4b4c4073c68ce83492fa847db378c67a9c591cdba758c98b4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a3a46af5f26c7126bc71d144badbce628fb3caf29ffc825707927e1d126c7ecb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "18334c5145c272e6c07894ed85331cbd085fed8577a694131c2cd3991ee5e525",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8fa5190ed35220850856b47ca167a40f049cdbd98605d9f91bba983489d7ba9a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b08759c01f16d56532ea2f5de49b204f0a208b0886c2d33868e42cff57443389",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image207.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "350905575026f4d8815647f8a5d428fad66351bcb525c65782c812e143b8b516",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "726b251a0feb6f74b4969c6081dad20cb0864887a14ce0d1b47a096dcbe5a742",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6d1f8e681087dde6787e39096c938478c67b86f0a558a985f5b39619c2b6757f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c6f23c777952c19888430e64f088921aa98126fd7a084133cf470e6666983be1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4e8c2e41d70480be1f4347269509d0f0531605de95c48fa46e9d69530cd4e6f9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fe636d54b4b17566fa40aab5c499332da0c8042a8854b5448260a7d46e28fdba",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dedb00135f81edd51609d6341735ede42dcac0e6966adecddf1a3feeb446323d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image209.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6d2af4ed02950fc0351a0c9c9ee653028ec5268218d2093171e07581180ff57b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f98421f7a5b89a75a513e9ce83755a24f25d608caa8926b0a8d6489939b0de7a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6319a9a4ec382cfa02e3b4a75ae72583903289a5304d6dde48d5196a807f9810",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "060c3ef39a842a89b31c7730324baed95a8caa7b0654d611a732aff2a2ee7b22",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "25dfc76525327e690f580540da36d28464ec0a1defe454874f1602656a7ee6ac",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "570a8a5d288d0493b40a2a7b484844417f1b1c185d4e2c7b2d5d1f5acd945798",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "04f660175bdf34c60bcf1d85cf496311300c0b2ab70f79a4543b476387d0de9e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0904e827bc7cd734f518bd205f35e7db1e73c1935b4ae455f5142398a2b30da4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3fe72528e1a6b85f93509fb3428547fe6b7b7485c1164391a6836729eebcc5ec",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6561e59a0de2fa963ee1e6f02ae84a1d229603d01e40cba528965c64989788a7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "cb27fe9481ee8907b5d1c6db565d6b53db575a9204965d40996f21848d894e5f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4c5ae6d826d49f6cc33f9af7d9e08b87cb132c51111dc1eb095f1ec707d6ce83",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image21.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "dce887f91a6bcac7725dd59dc0dce05be559baeda5f5d3948e0603e403a8188a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8dc601ca691244d44852c30223170779dc0b2800c456e86d307ee11d43f9ceef",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f017cae376ba7fe7823917a33741547295d4b1cc4b0c59040a5d4edc2ed9b7fb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "151b986121b7aa3954859acf03275ede30e010085f58ceeebbb26df964d200c5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "245af5a65fefc2511fc10cb9a07cf84e44e1e1f673d8a90c287a4c359216ecc4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c372a2e89fd3de84988227831747b14ddac37e866b549f623fccc10e402e5440",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c8ab50a79746aa63131d9763c79af147f61993466bf069d67c28399925a6d7d9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image211.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b7f1d1bcf55311f1d77e1ded3b1028c869ef38e1882cc9267b0242a2a2a6f5f1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1d3d66d75159327c687b01e8237bbc2271485da97c3144ffc79dfedbb919a1a3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "61df3fc67280b320e6140883eb85d7a874941906ff72cac9a1bca5bc17f3adb3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a9d96947c179ffa2c8fee5d095d84b9ca25712cb7fb1b5a4dbe4d8eefc260963",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0790cc7f484b68695df7f0c0346542ac337013aea9f78465a95f059aedb6f634",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d39c9b023a6d1b204a2f2cb9e5dee81bdd0aea009682badbd53277921fcbf699",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4574174ba481233b9f939af3be53153a25129232a9c4310b67428b1951770192",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image213.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c88ccc8dfab7c49595c847b53f4530c7e8078aae19c39615249caab1259c436e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2107568f32395ca9946e01cdab10ef3dad2f02791e98b376da54993b1952ed3f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1497db257fea5390beecaec3a879bae86ae5de2981004aa8081c5ad6f29c2060",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "47eb838fc0e111781f214f7d1cd5f4a5b3c66054701248b158a4c9d68336f2af",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3c5c5b710c37a096ac6bae689ed996673a86a5a2f289ca53aa7899b5b06229da",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "87791c6acc5e0e9aa08e9e17c3e322825bebe10331c53b6e9dace5e8177c9d99",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a5dcb61d07e8d607077cf182c2a6ead6b1e63842b797fd938e4b4bb1b5e9f819",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image215.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3f2ca9e070fab47ccdc028231d5a0c17a2545387e7dea517a3cef1657de7bbfe",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "453e8ce0368a3a7ecc5b90ecbef1cd63c5dbcd8d24f33236ca121b039ffb78aa",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "19f66da10920328568cab43bbbc61f67822846b8bb8cc880e1c0954ed6bf9525",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "18e06d42bfcacb97be0bfd83c85d60ce4a54956d3d07ffe3f2fab747e7a9d655",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e3970c5900bda4fe9799fb4ebdabbe10a5896003eb76759b4202d66f93f20b3c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a6be654f91f596f56288ff7a8f8e92dcceba50822836e74dc373396c1e3e56d4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e6a67736550d1ef95e1e65ae2bcd212b24e58d12628b94d39b79984c96ecb138",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image217.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "32574e4daedac374cde255ee40ff56c2db612c6afb2eaa477404fbcf2edfc8f5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4059dae7da4fdcb1720ec04947458e8f3920b73fa432d516df05f7c97b026cdd",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0f34aeddf4690fba06185cbe1a9c25ba3ce20e3b609606dcb534764071b1626c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "20f26f01d9f8715279feefc85d49cffbf59fb1b7df0bf83a2205714089e87326",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f254d888834b89fd4cac2a1237bc3717379c3f1f5cd287d18de725ce432855f6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2d586a37f976917af373e45b1a8626f2713cef0938681166882a3dd1154f757f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6c7ce9d3bfbd0ac3b22a767e9363184b2ceeebbfebf3580447811e5d09b7bd4f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image219.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "501a99378e57602a20c9abca85c00889576fb1db5e6d0f9f6ed3ab14c3fc19fc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1ff26fa80cbb945239a414af8b7128edbef412885f78114917fa9834067bdc7f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4718e749713dd55663006c2b2787079e7d34abb857e80fd8a8f5ac53b13772e6",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b94248b7295354cfd7b8d643914607c292c09d1c81bbcee6a6e69fa512e69fd7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5b8d27f89caad33802ae43b8d8e11ff4b21b00abcb1b19ead22dcb4e62c9f218",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "af7f4df43a0f14b6b93ffc7eab65dfe774aff08fc50893925d939929af48319c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2b3bdfad563aa8ecb3b94e461c1307791d73931bde19e8448520fe81666fc9dc",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image221.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "d5eafadfa098323e5c48eef7838ceb66b2cfcdafea9f8b36ce53117e84620c93",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "6d53e0e775d53596671020c93d7ea03fa210bd3846183e32e83cefc83195b034",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e07d1bf6c0b720bb23d097c1f80fa232d1680d38d2e1f8743a7cd0ca7bec16b8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "34e9f1d97d857e4a80a2968e699b44538baa4213b32a25217e1fac2fe8c596b9",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "10e8eea13bfe11ec7d47bb04984ec05d156c21501efad835f5c0b53e01862273",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e387da3ae60ff1e46237db61dc90a0b9fbacf3c231d8c2a104e8924b5833db4d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "812923a59fcde4ca760275085fc99cee2b9bfb75e2daa71549039b1ec09268b0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image223.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e965d2f3ef5800a4baf0bb3b9b6c95b61ce7c17de37c1e15c10bdc14e2796221",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9d56cc7e442470c6fc5bc47f149c63d64b7d5e6ed6c0330469bb2e377b9e7137",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "eaac6470e56ed152b61bf88c83d44e9eb024e42880dbd4bb9b032e6a7e41eeb5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c5646ff6c8efb8414eb82d9c68f657f9cafce8933149d43f11f858786a4964b8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4e10cf789748ea99e64c0599eb0b27929a066e6bd074122fc12917bf8d5da010",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "47ca413ff71025e70939f9aba8b14bff99a213d5f7dceb5ff27dc141db002eb1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ac21f649f0a47730da0642dc05fbfcc65de560aae9156171e589d8d0525a650c",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image225.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "45ea5e425fe89c05c1762c32b160d6a4b6eabfaef6673ab29dc51da4e7d13083",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ad085608c3329c9906b5f9019f24b1d6baf28746f65b5f6d73de213470d045c7",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4a7ed46c9fbae826e686ee4897d4379996f82618f07b43ec9442960798851cff",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c31a2185e6f791e79dce4823a91674fe78603d06e37a98a1bcf7922db31483f8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "77e48bf859fe7a6e6ebfcc2c24096fe3b3696dafba2e349ff93b447c72feebac",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a7460e728a0803586bab9c5c5ad9e146ffee8f930fc8464e37a8e5391c0dedd0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f3c574a58321c6020f7b52bcca172504c0c16abfa31a3060b20bf5c5805cb8c5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image227.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "74ece8c7fb14d4e78a485e941a312bac49bcbf93a9ef11e609245aa42f79a664",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a7cc5acd2a8640729e44608cfa7c31fab0550eb8c0ab9ff05095273e1cc72148",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "da51a601dc5fda73030c26e90caff27e65f6a72c4b8b1640d87f6de14601309b",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "5aab1f7f08eab7eadba083635bf10ff0d3fe137466bf9edf656613be02656fd0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "8ae9e63077145accec1f2392b672371f552a59196bf4a3c08a1a6ce0d526ec57",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "3b9568099ed065c3cfeb09f3ad7a36c263c19a87ad0df760e7533ceb55f33fa8",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "2b04807af3f0956a0c8e44e0a2a060077bd43049c977c34ed8ffb479b1c710f1",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image229.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0b851b41f1ee89ef160c3a9d60281f6c97bd7b3a12e53589397388436c3de054",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (13).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "f3977ec8bc362023a9f4fb1e410c822e2a31c26f01597711f8953064c407c483",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (14).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "fdfe673e5935a0e54c7b124e83b5c9465e6ccffda7b0ce49f55d69a48f005db3",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (15).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4d27188b3968f615b4517d8d78d1fd50b73970641ef634088c2091e290655f86",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (2).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "9af6651a2514583fab43cdfcace5ca65b2e4f1fbb5b2138071017ff2639262f0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (3).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "81c9ffe4d9ae0563c1ca263b36d558c31b3492d91b5d26ef3a21d524833b7738",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (4).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "b4bd4ef7c85de2b19d237257307b342451ee18c3bdddc463d94866650ecc3ccb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "bfb85bedc5c6ca0c95539fca9696e863b4e1966ec7e2ce8ffec069eedcbb27cf",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c344e8f8909a58fb36b060d731a03f272636b899d5d6787a7c83839c8bd12eeb",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "591ec15d161db6d8e9fe56e84c75887e7c8d85393adc34f1169c424fe884b7a4",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ba497be277712db5300cb85425821139d217686b532b9ae0da38cba38201b875",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "1e82fa9d113b74a30ed52a5a8cdefc6776c37d586bf50280216f3122bc500351",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image23.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a2fa06e5cde39adc20c34895e6cfbd1360e58a56e5b93950a55b8f6d33bd9802",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "0a2e0c6b78d9435cb4750fcf178887fc4d7d1173ed51080f5a50ccaee7744a60",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a1aad6adb32e2111cb5802b453f0526dd1a890117c571a1fe9ac4bee3bc2fd22",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "e5048097440bdfba1267690bca2854b07b0e30993057783265c0a2a1f58cd4af",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "a7fe2a682a2f2adb8c0ac56bceefd77ae19f7f76fb498e481f0ff22f73f5acb5",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "adab80861a7fe540519d5103b8a2606952c97dbd567d30d26fcab63bb1311c8a",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image231.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "913f3d68eb356b05f10012465603f4dfed7c47a2a48ec4d1b8b1c9a7cc6f869f",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233 (5).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "ceff47e98916999463e953987e932ec512faedd4ce2ff5c64270814fe034f17e",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233 (6).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "87d6a9ffa64aa32129ceda7103d4eb65dcccdd1c499586d91f4a0384280d7e40",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233 (7).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "4e4c19d274eb178deca66c912d0b4e98ec41963288ad23396f50cbcc3d282d6d",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233 (8).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c287acb3d0d451f5c31d5ba62a948c9b36a7f7cba6be4b1e5824a1eb21eb7400",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233 (9).png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "da172e436ed2621d77428fdd35fa266805ab02951b5aa26bffb663a462d6d3c0",
+    "source_group_id": ""
+  },
+  {
+    "path": "FruQ-DB/Fresh/Image233.png",
+    "source_label": "fresh",
+    "label": "fresh",
+    "label_id": 0,
+    "pixel_sha256": "c4f6e03e33d2d69b4226c48382cd868fd9da27103c8f39f5322ee9275df66cb5",
+    "source_group_id": ""
+  }
+]

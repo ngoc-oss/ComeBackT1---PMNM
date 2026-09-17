@@ -1,0 +1,48 @@
+{
+  "n": 753,
+  "accuracy": 0.9960159362549801,
+  "macro_f1": 0.9956074290329844,
+  "confusion_matrix": [
+    [
+      230,
+      2,
+      0
+    ],
+    [
+      0,
+      205,
+      0
+    ],
+    [
+      0,
+      1,
+      315
+    ]
+  ],
+  "precision": [
+    1.0,
+    0.9855769230769231,
+    1.0
+  ],
+  "recall": [
+    0.9913793103448276,
+    1.0,
+    0.9968354430379747
+  ],
+  "f1": [
+    0.9956709956709957,
+    0.9927360774818402,
+    0.9984152139461173
+  ],
+  "spoiled_predicted_fresh": 0,
+  "threshold": 0.7,
+  "coverage": 0.9867197875166003,
+  "accepted_accuracy": 1.0,
+  "model_bytes": 3727321,
+  "host_cpu_inference_ms_p50": 3.7406240001018887,
+  "host_cpu_inference_ms_p95": 4.530936000037399,
+  "device_tested": false,
+  "evaluation_scope": "Internal frame split; video leakage possible; not independent generalization",
+  "sha256": "d20ed8f8e875044a3cdebe7fa9215392bd5041fd159f50e19dfb76aed9ebc4fd",
+  "torch_onnx_max_probability_error_30_images": 4.231929779052734e-06
+}

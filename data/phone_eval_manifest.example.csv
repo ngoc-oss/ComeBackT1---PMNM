@@ -1,0 +1,3 @@
+path,domain,label,specimen_id,device,lighting,angle,annotator_1,annotator_2,license,sha256
+images/fruit/fresh/sample001_day_front.jpg,fruit,fresh,fruit_001,Samsung Galaxy A10s,daylight,front,fresh,fresh,consent-required,replace-with-sha256
+images/ood/car/sample001.jpg,ood,out_of_scope,ood_001,Samsung Galaxy A10s,daylight,front,out_of_scope,out_of_scope,consent-required,replace-with-sha256

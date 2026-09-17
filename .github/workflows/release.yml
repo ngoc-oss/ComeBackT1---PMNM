@@ -1,0 +1,60 @@
+# SPDX-License-Identifier: MIT
+# FreshCheck source is licensed under MIT; see LICENSE at repository root.
+name: Build tagged release
+
+on:
+  push:
+    tags: ["v*.*.*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: android-actions/setup-android@v3
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Install Android SDK packages
+        run: sdkmanager 'platforms;android-35' 'build-tools;35.0.0'
+      - name: Verify source and tests
+        run: |
+          python -m unittest discover -s tests -v
+          python scripts/verify_release.py
+      - name: Build Android artifacts
+        working-directory: android
+        run: |
+          chmod +x gradlew
+          ./gradlew clean :app:lintDebug :app:testDebugUnitTest :app:assembleDebug
+      - name: Package open source release
+        shell: bash
+        run: |
+          version="${GITHUB_REF_NAME#v}"
+          if [[ "$GITHUB_REF_TYPE" != "tag" ]]; then version="0.5.1-dev"; fi
+          python scripts/package_release.py --version "$version"
+          sha256sum android/app/build/outputs/apk/debug/*.apk >> dist/SHA256SUMS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FreshCheck-release-candidate
+          path: |
+            dist/*
+            android/app/build/outputs/apk/debug/*.apk
+      - name: Publish GitHub Release
+        if: github.ref_type == 'tag'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh release create "$GITHUB_REF_NAME"
+          dist/* android/app/build/outputs/apk/debug/*.apk
+          --verify-tag --generate-notes --title "FreshCheck $GITHUB_REF_NAME"

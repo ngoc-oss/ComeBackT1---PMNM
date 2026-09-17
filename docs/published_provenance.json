@@ -1,0 +1,16 @@
+{
+  "paper_url": "https://arxiv.org/abs/2305.00986",
+  "publication_status": "arXiv preprint; journal peer review not verified",
+  "repository": "https://github.com/TheLohia/Phteven",
+  "commit": "b31e61f43f8c608f119d379daa5b76768b50c5b3",
+  "original_checkpoint_path": "flask_demo/models/resnet50_fe.pth",
+  "git_blob_sha1": "16abd25796e6b000ea7af48104b8cf3a509c9231",
+  "checkpoint_sha256": "777a6239b0948acbf9354f0734e21cfc5467dad7b4364435189830d7ff9c7d57",
+  "dataset_url": "https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset",
+  "dataset_license_declared": "CC0: Public Domain",
+  "dataset_archive_sha256": "dfd69db4995f634ca43e4152cd47905eb3a8a180b223404bb5a2bc1f87423740",
+  "original_checkpoint_retrained": false,
+  "conversion": "PyTorch -> ONNX FP32 -> static INT8 QDQ; labels reordered 2,1,0",
+  "calibration_images": 120,
+  "evaluation_images": 451
+}

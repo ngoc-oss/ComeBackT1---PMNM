@@ -1,0 +1,26 @@
+THỊT ĐỎ
+ResNet-50: checkpoint của nhóm Phteven; chuyển ONNX INT8 bởi FreshCheck.
+Meat Freshness Prediction (2023), arXiv preprint. Chưa xác minh bản tạp chí phản biện.
+https://arxiv.org/abs/2305.00986
+https://github.com/TheLohia/Phteven
+Dữ liệu: Meat Freshness Image Dataset, Vinayak Shanawad, Kaggle (CC0 theo người đăng).
+Fresh / Half-Fresh / Spoiled.
+
+QUẢ · THỬ NGHIỆM
+FruitQ, Multimedia Tools and Applications, Springer (2024; online 2023).
+https://doi.org/10.1007/s11042-023-16058-6
+https://zenodo.org/records/7224690
+FruQ-DB: 5.647 ảnh gốc, Fresh / Mild / Rotten. CC BY 4.0 theo người đăng.
+MobileNetV3 Small do FreshCheck huấn luyện trên FruQ-DB. KHÔNG phải checkpoint do tác giả bài báo phát hành. Dùng ONNX FP32; không dùng bản quả INT8 thất bại.
+
+HIỂU KẾT QUẢ
+NGHI NGỜ tương ứng lớp trung gian của nguồn. CHƯA ĐỦ CƠ SỞ nghĩa là điểm mô hình thấp, cần chụp lại; không phải nhãn trung gian.
+Ảnh không xác nhận an toàn vi sinh. Chưa kiểm định trên mẫu thực địa độc lập. Chọn đúng nhóm và chỉ chụp một mẫu.
+Bản 0.5.1 dùng bộ gắn nhãn ảnh ML Kit chạy trên máy để chặn một số ảnh ngoài phạm vi rõ ràng (ví dụ người/xe), và kiểm tra tối/sáng/mờ. Đây là lớp giảm lỗi, không bảo đảm phát hiện mọi ảnh ngoài miền.
+https://developers.google.com/ml-kit/vision/image-labeling/android
+
+RIÊNG TƯ
+Không tài khoản, không tải ảnh lên máy chủ. Lịch sử lưu trên máy và có thể xóa. Ảnh chụp lưu tạm trong cache.
+
+GIẤY PHÉP
+Mã FreshCheck: MIT. Phteven: MIT. FruQ-DB: CC BY 4.0. Thông báo giấy phép đầy đủ được đóng gói cùng ứng dụng; giấy phép mã không thay thế giấy phép dữ liệu và trọng số.

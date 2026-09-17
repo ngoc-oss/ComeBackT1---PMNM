@@ -1,0 +1,4 @@
+path,label,food_type,group_id,source,license
+raw/apple_001_day1.jpg,fresh,apple,apple_001,self_collected,CC-BY-4.0
+raw/apple_001_day3.jpg,suspicious,apple,apple_001,self_collected,CC-BY-4.0
+raw/apple_001_day6.jpg,spoiled,apple,apple_001,self_collected,CC-BY-4.0
