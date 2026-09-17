@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: MIT
 # Install torch/torchvision from CPU index as described in docs/FRUITQ.md
 torch==2.6.0
-torchvision==0.21.0
+torchvision==0.29.0
 onnx==1.17.0
 onnxruntime==1.20.1
 numpy==2.5.2
