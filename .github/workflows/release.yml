@@ -44,7 +44,7 @@ jobs:
           if [[ "$GITHUB_REF_TYPE" != "tag" ]]; then version="0.5.1-dev"; fi
           python scripts/package_release.py --version "$version"
           sha256sum android/app/build/outputs/apk/debug/*.apk >> dist/SHA256SUMS
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: FreshCheck-release-candidate
           path: |
