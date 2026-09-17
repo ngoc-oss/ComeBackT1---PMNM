@@ -36,7 +36,7 @@ android {
 dependencies {
     implementation("androidx.activity:activity-ktx:1.9.3")
     implementation("androidx.core:core-ktx:1.15.0")
-    implementation("androidx.exifinterface:exifinterface:1.3.7")
+    implementation("androidx.exifinterface:exifinterface:1.4.2")
     // Newer native package; release verification checks 16 KB alignment.
     implementation("com.microsoft.onnxruntime:onnxruntime-android:1.30.0")
     implementation("com.google.mlkit:image-labeling:17.0.9")
