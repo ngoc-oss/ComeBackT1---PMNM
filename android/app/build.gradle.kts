@@ -42,5 +42,5 @@ dependencies {
     implementation("com.google.mlkit:image-labeling:17.0.9")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test:runner:1.6.2")
-    androidTestImplementation("androidx.test.ext:junit:1.2.1")
+    androidTestImplementation("androidx.test.ext:junit:1.3.0")
 }
