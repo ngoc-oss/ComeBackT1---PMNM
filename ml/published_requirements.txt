@@ -2,7 +2,7 @@
 # FreshCheck source is licensed under MIT; see LICENSE.
 torch==2.6.0
 torchvision==0.21.0
-onnx==1.17.0
+onnx==1.22.0
 onnxruntime==1.20.1
 numpy>=1.26,<3
 Pillow>=10,<13
